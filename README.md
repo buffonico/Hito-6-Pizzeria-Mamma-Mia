@@ -3,12 +3,13 @@
 Proyecto Estatico, creado con React + Vite, + Router1, React Context API, para una pizzeria, Hito 6 actualizado
 
 ## Acceso
-
+    https://github.com/buffonico/Hito-6-Pizzeria-Mamma-Mia
+    https://buffonico.github.io/Hito-6-Pizzeria-Mamma-Mia/
 
 
 ## Descripción
 
-    En este Hito, se agregan las pages, y se separan en carpetas, teniendoa acceso a login, registro, perfil, carrito y home, validando
+    En este Hito, se agregan los context, y se separan en carpetas, teniendoa acceso a login, registro, perfil, carrito y home, validando
     lo aprendido en las clases y tutorias.   
   
 
